@@ -4,6 +4,12 @@
     <br/><br/>
 </h1>
 
+<!-- - 💼 I’m currently working on [Exit83](https://exit83.com) -->
+
+- 📚 Computational Math graduate at UFMG
+
+- 📫 How to reach me **gabrielasoaresdias1999@gmail.com**
+
 <h3 align="left">Feel free to connect with me by clicking the LinkedIn logo below</h3>
 
 <p align="left">
@@ -14,15 +20,19 @@
 
 <hr />
 
+<p align="left">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriela-sda&hide_langs_below=1&theme=radical&layout=compact" />
+</p>
+
 <h2 align="left">Technological Knowledge</h2>
 
 <h3 align="left">Web Development</h3>
 
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<!-- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) -->
 
 <h3 align="left">Theoretical Computing</h3>
 
