@@ -1,10 +1,10 @@
 <h1 align="center">
-    Hi there, I'm Gabriela! <br/> A dedicated Back End Software Engineer <br/><br/>
+    Hi there, I'm Gabriela! <br/> A dedicated Full Stack Software Engineer <br/><br/>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
     <br/><br/>
 </h1>
 
-<!-- - 💼 I’m currently working on [Exit83](https://exit83.com) -->
+- 💼 I’m currently working on [Gitpay](https://gitpay.me/#/)
 
 - 📚 Computational Math graduate at UFMG
 
@@ -13,7 +13,7 @@
 <h3 align="left">Feel free to connect with me by clicking the LinkedIn logo below</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/gabriela-soares-dias-de-almeida-07b2271a3/" target="blank"> 
+  <a href="https://www.linkedin.com/in/gabriela-soares-dias-de-almeida-07b2271a3/?locale=en_US" target="blank"> 
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
 </p>
