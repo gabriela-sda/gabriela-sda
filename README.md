@@ -7,7 +7,7 @@
 
 - 📚 Computational Math graduate at UFMG
 
-- 📫 How to reach me **gabrielasoaresdias1999@gmail.com**
+- 📫 How to reach me **gabrielasdadev@gmail.com**
 
 <h3 align="left">Feel free to connect with me by clicking the LinkedIn logo below</h3>
 
