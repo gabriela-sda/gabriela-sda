@@ -4,7 +4,6 @@
     <br/><br/>
 </h1>
 
-- 💼 I’m currently working on [Gitpay](https://gitpay.me/#/)
 
 - 📚 Computational Math graduate at UFMG
 
